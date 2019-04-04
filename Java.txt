@@ -1,7 +1,1 @@
-New File Conflict
-
-New File to conflict
-
-New conflict
-
-Conflict
+Conflict resolve from Command line
