@@ -5,7 +5,7 @@ import com.devops.calculator.subtraction.Subtraction;
 
 public class MainClass {
 
-	public static void main(String[] args) {
+	public statics void main(String[] args) {
 		
 		Subtraction sub = new Subtraction();
 		
