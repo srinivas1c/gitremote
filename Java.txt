@@ -4,3 +4,4 @@ New File to conflict
 
 New conflict
 
+Conflict
