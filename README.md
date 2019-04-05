@@ -1,3 +1,2 @@
-Merge from Command line..
-
-Branch1
+Merge from Command line
+Branch2
