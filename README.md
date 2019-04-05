@@ -1,4 +1,4 @@
-Branch1
+Branch
 
 Branch2
 Extra
