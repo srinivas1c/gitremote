@@ -2,7 +2,7 @@
 Merge from Command line..
 
 
-merge from command line (Branch) Branch
+merge from "Master Conflict"
 
 merge from command Branch
 
