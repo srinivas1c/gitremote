@@ -1,3 +1,3 @@
 Merge from Command line..
-merge from "Master Conflict"
+merge from "Branch1 Conflict"
 
